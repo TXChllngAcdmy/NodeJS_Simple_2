@@ -3,6 +3,6 @@ applications:
   memory: 125M
   instances: 1
   domain: mybluemix.net
-  name: rcacadet39
-  host: rcacadet39
+  name: bmoore
+  host: bmoore
   disk_quota: 1024M
